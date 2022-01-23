@@ -1,4 +1,4 @@
-<div align="center"><img src="Banner.gif"></img></div>
+<div align="center"><img src="zmigi.pic.png"></img></div>
 
 <h1 align="center">👋 Hey, I'm zMigi_!</h1>
 
