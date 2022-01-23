@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hey, I'm zMigi_!</h1>
 
-<p align="center">Hey, my name is Brayan and on the Internet I'm known under the alias of Amigo <i>(spanish of "friend")</i> or zMigi_, which is mostly used for social media usernames. I'm learning how to be developer. I like computers <i>(surprised?)</i>, gaming and music.<br><br><strong>I 🖤 Black</strong></p>
+<p align="center">Hey, my name is Brayan and on the Internet I'm known under the alias of Amigo <i>(spanish of "friend")</i> or zMigi_, which is mostly used for social media usernames. I'm learning how to be developer. I like computers <i>(surprised?)</i>, gaming and music.<br><br><strong>I 🖤 Music</strong></p>
 
 <hr>
 
